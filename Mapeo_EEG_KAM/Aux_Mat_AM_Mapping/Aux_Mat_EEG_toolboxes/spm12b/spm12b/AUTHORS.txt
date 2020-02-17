@@ -1,0 +1,39 @@
+
+% This file contains the list of people involved in the development of SPM
+% along its history.
+% If you feel someone is missing, please email <fil.spm@ucl.ac.uk>.
+%
+% John Ashburner
+% Gareth Barnes
+% Guillaume Flandin
+% Karl Friston
+% Darren Gitelman
+% Volkmar Glauche
+% Chloe Hutton
+% Vladimir Litvak
+% Rosalyn Moran
+% Robert Oostenveld
+% Will Penny
+% Christophe Phillips
+% Dimitris Pinotsis
+% Ged Ridgway
+% Mohamed Seghier
+% Klaas Enno Stephan
+%
+% Jesper Andersson
+% Matthew Brett
+% Christian Buechel
+% Chun-Chuan Chen
+% Justin Chumbley
+% Jean Daunizeau
+% Lee Harrison
+% Jon Heather
+% Rik Henson
+% Andrew Holmes
+% Maria Joao Rosa
+% Stefan Kiebel
+% James Kilner
+% Jeremie Mattout
+% Tom Nichols
+% Jean-Baptiste Poline
+% Keith Worsley
